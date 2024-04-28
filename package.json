@@ -8,12 +8,5 @@
     "email": "romashbis@gmail.com"
   },
   "repository": "https://github.com/romule/Luromart.git",
-  "scripts": {
-    "dev": "vuepress dev src",
-    "build": "vuepress build src"
-  },
-  "license": "MIT",
-  "devDependencies": {
-    "vuepress": "^1.5.3"
-  }
+  "license": "MIT"
 }
